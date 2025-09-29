@@ -11,9 +11,7 @@ and we will store this in a temp string called temp.. after this we will again t
 
 The code for this ques will look something like this :- 
 
-class Solution {
-public:
-    string reverseWords(string s) {
+        string reverseWords(string s) {
         int n = s.length() ;
         string ans = "";
 
